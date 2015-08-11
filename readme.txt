@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-درگاه پرداخت پارسیان پال برای Easy Digital Download.
+EDD Gateway-For Easy Digital Download-by parsianpal
 
 == Description ==
 
